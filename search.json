@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to contact me regarding possible cooperations, jobs, projects, or any kinds of input.\nEmail: e.s.loscher@students.uu.nl\nGitHub: emsulo · GitHub\nLinkedIn: Emilia Löscher | LinkedIn"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "09/2021 - 06/2023\n\n\nUtrecht Universiteit (UU) | Utrecht, The Netherlands\nM.S. in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences\n\n\n09/2018 - 04/2019\n\n\nUniversity of Victoria (UVIC) | Victoria, Canada\nExchange during B.S. Statistics at TU Dortmund\n\n\n10/2017 - 08/2021\n\n\nTechnische Universität Dortmund (TU) | Dortmund, Germany\nB.S. in Statistics, Minor in “Theoretical Medicine”\nGrade 1,8\n\n\n08/2009 - 06/2017\n\n\nGymnasium Essen-Werden | Essen, Germany\nHigh School Abitur: 1.0"
+  },
+  {
+    "objectID": "cv_english.html",
+    "href": "cv_english.html",
+    "title": "Emilia S. Löscher",
+    "section": "",
+    "text": "e.s.loscher@students.uu.nl | GitHub | LinkedIn"
+  },
+  {
+    "objectID": "cv_english.html#statistical-programming-languages",
+    "href": "cv_english.html#statistical-programming-languages",
+    "title": "Emilia S. Löscher",
+    "section": "Statistical Programming Languages",
+    "text": "Statistical Programming Languages\n\nR including rmarkdown and Quarto: profound knowledge\nPython: basic knowledge\nLaTeX:\nMicrosoft Access: some experience"
+  },
+  {
+    "objectID": "cv_english.html#languages",
+    "href": "cv_english.html#languages",
+    "title": "Emilia S. Löscher",
+    "section": "Languages",
+    "text": "Languages\n\nGerman: native\nEnglish: full professional proficiency TOEFL iBT: Score 115/120 in June 2021\nDutch: limited working proficiency\nFrensh: Elementary proficiency"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Utrecht Universiteit (UU) | Utrecht, The Netherlands\nM.S. in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences\nSeptember 2021 - Present\n\n\n\n\n\nUniversity of Victoria (UVIC) | Victoria, Canada\nExchange during B.S. Statistics at TU Dortmund\nSeptember 2018 - April 2019\n\n\n\n\n\nTechnische Universität Dortmund (TU) | Dortmund, Germany\nB.S. in Statistics, Minor in “Theoretical Medicine”\nOctober 2017 - August 2021"
+  },
+  {
+    "objectID": "education.html#courses",
+    "href": "education.html#courses",
+    "title": "Education",
+    "section": "Courses",
+    "text": "Courses\n\n\nTheoretical Medicine\n\nAnatomy I + II\nPhysiology I + II\nBio-Chemistry I + II\nHuman Genetics\n\n\n\n(Non-Statistical) Electives at UVIC\n\nKnowledge in Global Health\nUnited Nations + Global Issues\nBiomedical Ethics\nIntroduction Human Dimensions of Climate Change\nPolitical Ecology: Environmental History of the Past Ten Years"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Emilia S. Löscher",
+    "section": "",
+    "text": "I am a second year Master student at the University of Utrecht in the Netherlands. Currently, I am writing my master thesis under the supervision of Dr. Maarten van Smeden (UMCU), Dr. Kim Luijken (UMCU), and Dr. Ben Van Calster (KU Leuven and LUMC).\nWhenever I was given the choice, I decided to focus on medicine related research. I wrote my Bachelor thesis “Comparison of Model Averaging Approaches for Dose-Response Gene Expression Data” at the TU Dortmund under supervision of JProf. Dr. Kirsten Schorning. Furthermore, I aquired basic medical knowledge throughout my Bachelors degree by choosing the minor “Theoretical medicine”."
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Emilia S. Löscher",
+    "section": "Interests",
+    "text": "Interests\n\nProgramming (in R)\nStatistical Modelling\nClinical Prediction Models\nGlobal Health"
+  }
+]
