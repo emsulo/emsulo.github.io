@@ -1,0 +1,32 @@
+---
+title: "Emilia S. Löscher"
+about:
+  template: trestles
+  image: profile.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/emilia-l%C3%B6scher-1b5717249/
+    - icon: github
+      text: Github
+      href: https://github.com/emsulo
+    - icon: mail
+      text: Email
+      href: mailto:e.s.loscher@students.uu.nl
+---
+
+## Biography
+
+I am a second year Master student at the University of Utrecht in the Netherlands. Currently, I am writing my master thesis under the supervision of Dr. Maarten van Smeden (UMCU), Dr. Kim Luijken (UMCU), and Dr. Ben Van Calster (KU Leuven and LUMC) in the field of clinical prediction models.
+
+Whenever I was given the choice, I decided to focus on medicine related courses and projects. I wrote my Bachelor thesis "Comparison of Model Averaging Approaches for Dose-Response Gene Expression Data" at TU Dortmund University under supervision of JProf. Dr. Kirsten Schorning. Furthermore, I acquired basic medical knowledge throughout my Bachelor program by choosing the minor "Theoretical medicine".
+
+The courses I chose during my exchange at the University of Victoria, Canada, sparked my interest in Global Health and contributed to me being passionate about working in interdisciplinary and international teams.
+
+## Interests
+
+-   Programming (in R)
+-   Statistical Modelling
+-   Clinical Prediction Models
+-   Global Health
+-   Interdisciplinary and international cooperation

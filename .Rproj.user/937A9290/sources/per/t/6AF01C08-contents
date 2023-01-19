@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: doc
+
+execute: 
+  freeze: auto
+
+website:
+  title: Emilia S. Löscher
+  navbar:
+    background: "#258c90"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: education.qmd
+        text: Education
+      - text: CV
+        menu: 
+          - cv_english.qmd
+          - cv_german.qmd
+      - href: contact.qmd
+        text: Contact
+  
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
+
+#https://www.uu.nl/en/organisation/corporate-identity/guidelines/logo
+# https://de.wikipedia.org/wiki/Datei:Technische_Universit%C3%A4t_Dortmund_Logo.svg
+# https://www.uvic.ca/brand/look-feel/logo/index.php
