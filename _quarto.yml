@@ -1,10 +1,6 @@
 project:
   type: website
-<<<<<<< Updated upstream
   output-dir: doc
-=======
-  output-dir: docs
->>>>>>> Stashed changes
 
 execute: 
   freeze: auto
