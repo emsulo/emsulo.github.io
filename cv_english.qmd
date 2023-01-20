@@ -68,7 +68,7 @@ Grade: 1.0
 ::: {.g-col-8 style="color: black"}
 #### TU Dortmund University \| Dortmund, Germany
 
-Student assistant in the context of the **Research Training Group 2624** "Biostatistical Methods for High-Dimensional Data in Toxicology"    
+Student assistant in the context of the **Research Training Group 2624** "Biostatistical Methods for High-Dimensional Data in Toxicology"\
 - Working on code for a simulation study in R
 :::
 
@@ -113,25 +113,25 @@ Student assistant
 
 -   LaTeX: good knowledge
 
-
 ## Languages {style="color: black"}
 
 -   German: native
 
--   English: full professional proficiency TOEFL iBT: Score 115/120 in June 2021
+-   English: full professional proficiency\
+    TOEFL iBT: Score 115/120 in June 2021
 
 -   Dutch: limited working proficiency
 
 -   French: Elementary proficiency
 
 # Achievements {style="color:  #258c90"}
- 
-:::grid 
+
+::: grid
 ::: {.g-col-12 style="color: black"}
 -   DAAD PROMOS scholarship
 
 -   Participant in bilateral oversea exchange program between TU Dortmund University, Germany, and University of Victoria, Canada
 
--   High school student participant in Research Training Group 2098 (GRK 2098)     "Biomedicine of the acid sphingomyelinase/acid ceramidase system"
+-   High school student participant in Research Training Group 2098 (GRK 2098) "Biomedicine of the acid sphingomyelinase/acid ceramidase system"
 :::
 :::
