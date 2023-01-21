@@ -17,7 +17,7 @@ about:
 
 ## Biography
 
-I am a second year Master student at the University of Utrecht in the Netherlands. Currently, I am writing my master thesis under the supervision of Dr. Maarten van Smeden (UMCU), Dr. Kim Luijken (UMCU), and Dr. Ben Van Calster (KU Leuven and LUMC) in the field of clinical prediction models.
+I am a second year Master student at the University of Utrecht in the Netherlands. Currently, I am writing my Master thesis under the supervision of Dr. Maarten van Smeden (UMCU), Dr. Kim Luijken (UMCU), and Dr. Ben Van Calster (KU Leuven and LUMC) in the field of clinical prediction models.
 
 Whenever I was given the choice, I decided to focus on medicine related courses and projects. I wrote my Bachelor thesis "Comparison of Model Averaging Approaches for Dose-Response Gene Expression Data" at TU Dortmund University under supervision of JProf. Dr. Kirsten Schorning. Furthermore, I acquired basic medical knowledge throughout my Bachelor program by choosing the minor "Theoretical medicine".
 

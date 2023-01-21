@@ -13,7 +13,7 @@ editor: visual
 ::: g-col-8
 **Utrecht University (UU)** \| Utrecht, The Netherlands
 
-M.S. in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
+Research Master in Methodology and Statistics for the Behavioural, Biomedical and Social Sciences
 
 September 2021 - Present
 :::
@@ -25,7 +25,7 @@ September 2021 - Present
 ::: g-col-8
 **University of Victoria (UVIC)** \| Victoria, Canada
 
-Exchange during B.S. Statistics at TU Dortmund
+Exchange during B.Sc. Statistics at TU Dortmund
 
 September 2018 - April 2019
 :::
@@ -37,7 +37,7 @@ September 2018 - April 2019
 ::: g-col-8
 **Technische Universität Dortmund (TU)** \| Dortmund, Germany
 
-B.S. in Statistics, Minor in "Theoretical Medicine"
+B.Sc. in Statistics, Minor in "Theoretical Medicine"
 
 October 2017 - August 2021
 :::
@@ -67,7 +67,7 @@ October 2017 - August 2021
 
 -   Biomedical Ethics
 
--   Introduction Human Dimensions of Climate Change
+-   Introduction to Human Dimensions of Climate Change
 
 -   Political Ecology: Environmental History of the Past Ten Years
 :::
